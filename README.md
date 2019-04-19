@@ -81,4 +81,4 @@ The button will create a zip file corresponding to all the deduplicated input fi
 
 The webpage should look like this!
 
-![alt text](https://github.com/CPTPGenomicTranscriptomic/RemoveDuplicatedCells/blob/master/RemoveDuplicatedCells_interface.png)
+![alt text](https://github.com/CPTPGenomicTranscriptomic/RemoveDuplicatedCells/blob/master/RemovesDuplicatedCells_interface.png)
